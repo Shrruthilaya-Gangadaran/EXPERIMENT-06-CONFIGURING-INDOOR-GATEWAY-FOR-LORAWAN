@@ -1,11 +1,11 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
-## Aim: 
+## AIM: 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
-## Components required:
+## COMPONENTS REQUIRED:
 Dragino LPS8 Indoor LoRaWAN gateway, ETHERNET cable RJ45,Internet connection 
 
-## Theory :
+## THEORY:
 Dragino LPS8 Indoor LoRaWAN gateway
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/36288975/6ad9d336-ac3f-43b2-9801-1a647c936b37)
 
@@ -36,7 +36,7 @@ The device is in the booting stage, in this stage, it will BLINKING BLUE for sev
 then with SOLID RED and BLINKING BLUE together
 ✓ SOLID RED: The device doesn’t have an Internet connection.
 ➢ ETH LED: This LED shows the ETH interface connection status.
-## Procedure :
+## PROCEDURE:
 
 The LPS8 is configured as a WiFi Access Point by factory default. You can access and configure the LPS8 after connecting to its WiFi network, or via its WAN Ethernet port.
 1. Connect via WiFi
@@ -84,12 +84,12 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 
-## Output:
+## OUTPUT:
 ![image](https://github.com/Shrruthilaya-Gangadaran/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/93427705/fafc52d8-5788-46ca-8a65-6873e1bc7c51)
 
 
 
 
-## Results: 
+## RESULT: 
 
 Thus, The Dragino LPS8 Indoor LoRaWAN gateway for things network was configured.
